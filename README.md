@@ -21,8 +21,8 @@
 <br/>
 
 ## 📊 State
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=0xmuhammedalii99&show_icons=true&theme=dark"/>
-<img align="left" width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmuhammedalii99&theme=dark"/>
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=0xmuhammedalii99&show_icons=true&theme=tokyonight"/>
+<img align="left" width=30% src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmuhammedalii99&theme=tokyonight"/>
 
 <br />
 <br />
