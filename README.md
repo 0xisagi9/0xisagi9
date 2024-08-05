@@ -1,7 +1,5 @@
 # Hello there 👋, I'm Muhammed 😄
-### I'm a Junior Electronics and Communication Engineer 👷‍♂️.
--  🧑‍🎓 Third Year at Faculty of Engineering,HU.
--  🧑🏽‍🏫 I’m currently learning Embedded System
+### I'm a Senior Electronics and Communication Engineer 👷‍♂️.
 <br />
 
 ## 🌐 Contact with me 
