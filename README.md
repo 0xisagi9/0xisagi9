@@ -2,24 +2,13 @@
 ### I'm a Senior Electronics and Communication Engineer 👷‍♂️.
 <br />
 
-## 🌐 Contact with me 
- </a> <a href="https://www.linkedin.com/in/muhammedalii9" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- </a><a href="https://twitter.com/muhammed9alii" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> 
-  </a><a href="https://www.facebook.com/profile.php?id=100006345363273" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> 
- <br />
- 
- ## 💻 Skills
-<img src="https://img.shields.io/badge/programming-00599C?style=for-the-badge&logo=C&logoColor=white" /> <img src="https://img.shields.io/badge/Microcontroller Interface-8A0A0A?style=for-the-badge&logo=micro:bit&logoColor=white">
- <br />
- 
-## ⚙️ Tools
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <a> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<br/>
+## Contact with me 
+<p align="left">
+<a href="https://twitter.com/0xmuhammed9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xmuhammed9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammedalii9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedalii9" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006345363273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006345363273" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@muhammed9ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammed9ali" height="30" width="40" /></a>
+</p>
 
-
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=0xmuhammedalii99 &theme=gruvbox&border_radius=4.5) -->
-
-
-
-
+## Language and Tools
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
