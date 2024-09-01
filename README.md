@@ -1,5 +1,5 @@
 # Hello there 👋, I'm Muhammed 😄
-### I'm a Senior Electronics and Communication Engineer 👷‍♂️.
+### Senior Electronics and Communication Engineer 👷‍♂️.
 <br />
 
 ## Contact with me 
