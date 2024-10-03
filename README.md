@@ -13,21 +13,20 @@
 </div>
  <h3 align="left">🚀 Student at the Faculty of Engineering, Helwan University, with a keen interest in Backend Development.Currently, I'm learning Node.js to deepen my understanding of backend technologies and develop efficient web applications.</h3>
 
-## Contact with me
+## 🤙 Contact with me
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammedalii9/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://x.com/0xmuhammed9" target="blank"><img src="https://skillicons.dev/icons?i=twitter"></a>  
 </p>
-</br>
 
-## Skills
+## 🤹‍♀️ Skills
 <p align="left">
   <a href="https://skillicons.dev" target="blank">
     <img src="https://skillicons.dev/icons?i=git,c,html,css,js,cmake" />
   </a>
 </p>
 
-## Tools
+## 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev"target="blank">
     <img src="https://skillicons.dev/icons?i=notion,github,obsidian,eclipse,arduino,figma,matlab,vscode"
@@ -35,7 +34,7 @@
 </p>
 
 
-## GitHub Status 
+## 📊 GitHub Status 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xmuhammed9&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=0xmuhammed9&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
