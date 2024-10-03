@@ -1,6 +1,5 @@
 ![👋 Hi, my name is Muhammed 😀](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=0xmuhammed9&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
