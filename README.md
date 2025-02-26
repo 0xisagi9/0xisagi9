@@ -21,7 +21,7 @@
 ## 🤹‍♀️ Skills
 <p align="left">
   <a href="https://skillicons.dev" target="blank">
-    <img src="https://skillicons.dev/icons?i=git,c,html,css,js,cmake" />
+    <img src="https://skillicons.dev/icons?i=git,c,js" />
   </a>
 </p>
 
