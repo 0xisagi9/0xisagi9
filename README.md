@@ -28,7 +28,7 @@
 ## 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev"target="blank">
-    <img src="https://skillicons.dev/icons?i=notion,github,obsidian,eclipse,arduino,figma,matlab,vscode"
+    <img src="https://skillicons.dev/icons?i=notion,github,obsidian,eclipse,arduino,vscode"
   </a>
 </p>
     
