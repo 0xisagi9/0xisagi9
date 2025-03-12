@@ -35,10 +35,12 @@
 
 
 ## 📊 GitHub Status 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xmuhammed9&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="48%" alt="GitHub stats Card" />
-  <img src="https://streak-stats.demolab.com?user=0xmuhammed9&theme=tokyonight" width="48%" alt="GitHub Streak" />
+
+<div align="center" style="display: flex; flex-wrap: wrap; align-items: stretch;">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xmuhammed9&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="48%" height="200px" alt="GitHub stats Card" />
+  <img src="https://streak-stats.demolab.com?user=0xmuhammed9&theme=tokyonight" width="48%" height="200px" alt="GitHub Streak" />
 </div>
+
 
 
 
