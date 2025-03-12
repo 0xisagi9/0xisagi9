@@ -37,8 +37,9 @@
 ## 📊 GitHub Status 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xmuhammed9&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card" />
+   <img src="https://streak-stats.demolab.com?user=0xmuhammed9&theme=tokyonight" alt="GitHub Streak" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xmuhammed9&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=false" alt="GitHub top-langs Card" />
-  <img src="https://streak-stats.demolab.com?user=0xmuhammed9&theme=tokyonight" alt="GitHub Streak" />
+
 </p>
 
 
