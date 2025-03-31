@@ -35,8 +35,10 @@
 
 
 ## 📊 GitHub Status 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=0xIsagiY9&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streaks](https://nirzak-streak-stats.vercel.app/?user=0xIsagiY9&theme=tokyonight&hide_border=false)
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=0xIsagiY9&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=0xIsagiY9&theme=tokyonight&hide_border=false" />
+</div>
 
 
 
