@@ -35,11 +35,16 @@
 
 
 ## 📊 GitHub Status 
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=0xIsagiY9&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streaks](https://nirzak-streak-stats.vercel.app/?user=0xIsagiY9&theme=tokyonight&hide_border=false)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=0xIsagiY9&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0xmuhammed9&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=0xmuhammed9&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
+## 🔝 Top Contributed Repo
+![Top Contributed](https://github-contributor-stats.vercel.app/api?username=0xIsagiY9&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+
 
 
 
