@@ -15,7 +15,7 @@
 ## 🤙 Contact with me
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammedalii9/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/0xmuhammed9" target="blank"><img src="https://skillicons.dev/icons?i=twitter"></a>  
+  <a href="https://x.com/0xisagi9" target="blank"><img src="https://skillicons.dev/icons?i=twitter"></a>  
 </p>
 
 ## 🤹‍♀️ Skills
