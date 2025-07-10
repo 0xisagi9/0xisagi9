@@ -35,16 +35,6 @@
 
 
 ## 📊 GitHub Status 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=0xisagi9&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=0xisagi9&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streaks](https://nirzak-streak-stats.vercel.app/?user=0xisagi9&theme=tokyonight&hide_border=false)
-
-
-## 🔝 Top Contributed Repo
-![Top Contributed](https://github-contributor-stats.vercel.app/api?username=0xisagi9&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-
-
-
-
 
