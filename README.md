@@ -35,6 +35,5 @@
 
 
 ## 📊 GitHub Status 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=0xisagi9&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streaks](https://nirzak-streak-stats.vercel.app/?user=0xisagi9&theme=tokyonight&hide_border=false)
 
