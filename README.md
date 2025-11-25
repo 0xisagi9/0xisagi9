@@ -1,16 +1,15 @@
-![👋 Hi, my name is Muhammed 😀](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Muhammed 😀
+        👋 Hi, I'm Muhammed 😀
       </h1>
     </summary>
   </ul>
 </div>
- <h3 align="left">🚀 Student at the Faculty of Engineering, Helwan University, with a keen interest in Backend Development.Currently, I'm learning Node.js to deepen my understanding of backend technologies and develop efficient web applications.</h3>
+ <h3 align="left">I'm a passionate Backend Developer focused on building secure, scalable, and well-structured applications. My main stack includes C#, .NET, ASP.NET, SQL, Node.js, MongoDB, and React.js, and I enjoy turning real problems into clean backend architectures.</h3>
 
 ## 🤙 Contact with me
 <p align="left">
@@ -25,15 +24,5 @@
   </a>
 </p>
 
-## 🛠️ Tools
-<p align="left">
-  <a href="https://skillicons.dev"target="blank">
-    <img src="https://skillicons.dev/icons?i=notion,github,obsidian,eclipse,arduino,vscode"
-  </a>
-</p>
     
-
-
-## 📊 GitHub Status 
-![GitHub Streaks](https://nirzak-streak-stats.vercel.app/?user=0xisagi9&theme=tokyonight&hide_border=false)
 
